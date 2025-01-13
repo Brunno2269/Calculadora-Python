@@ -1,0 +1,9 @@
+
+### O que foi melhorado:
+
+1. **Estruturação**: Organizei a informação de forma mais clara e dividida em seções.
+2. **Clone do Repositório**: Adicionei uma instrução para clonar o repositório.
+3. **Instalação de dependências**: Expliquei como instalar o Tkinter (caso não venha instalado) e como verificar a versão do Python.
+4. **Execução do Código**: Detalhei os passos para executar o código e descrevi o uso básico da calculadora.
+5. **Como Contribuir**: Adicionei uma seção explicando como contribuir para o projeto.
+6. **Licença**: Incluí uma seção de licença para que os usuários saibam os termos sob os quais o projeto está licenciado.
